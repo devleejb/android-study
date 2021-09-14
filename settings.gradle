@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidStudy"
 include ':ch6_view'
+include ':ch7_layout'
