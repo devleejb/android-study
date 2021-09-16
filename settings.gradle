@@ -10,3 +10,4 @@ rootProject.name = "AndroidStudy"
 include ':ch6_view'
 include ':ch7_layout'
 include ':ch8_event'
+include ':ch9_resource'
