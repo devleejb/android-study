@@ -13,4 +13,5 @@
 - 7장 전화 앱의 키패드 화면 만들기 (Module - ch7_layout)
 - 8장 시계 앱의 스톱워치 기능 만들기 (Module - ch8_event)
 - 9장 메신저 앱의 인트로 화면 만들기 (Module - ch9_resource)
-- 10장 카카오톡 알림 만들기 (Module - ch10-notification)
+- 10장 카카오톡 알림 만들기 (Module - ch10_notification)
+- 11장 제트팩을 이용해 화면 구성하기 (Module - ch11_jetpack)
