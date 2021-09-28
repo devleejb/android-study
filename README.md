@@ -15,3 +15,4 @@
 - 9장 메신저 앱의 인트로 화면 만들기 (Module - ch9_resource)
 - 10장 카카오톡 알림 만들기 (Module - ch10_notification)
 - 11장 제트팩을 이용해 화면 구성하기 (Module - ch11_jetpack)
+- 12장 머티리얼 라이브러리로 화면 구성하기 (Module - ch12_material)
