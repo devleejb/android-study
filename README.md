@@ -18,3 +18,4 @@
 - 12장 머티리얼 라이브러리로 화면 구성하기 (Module - ch12_material)
 - 13장 할 일 목록 앱 만들기 (Module - ch13_activity)
 - 14장 배터리 정보 앱 만들기 (Module - ch14_receiver)
+- 15장 MP3 재생 앱 만들기 (Module - ch15_service / ch15_outer)
