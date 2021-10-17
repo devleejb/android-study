@@ -21,3 +21,4 @@
 - 15장 MP3 재생 앱 만들기 (Module - ch15_service / ch15_outer)
 - 16장 카메라, 갤러리 앱과 연동하는 앱 만들기 (Module - ch16_provider)
 - 17장 개선된 할 일 목록 앱 만들기 (Module - ch17_database)
+- 18장 뉴스 앱 만들기 (Module - ch18_network)
